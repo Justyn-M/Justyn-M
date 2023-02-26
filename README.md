@@ -1,5 +1,5 @@
 ### Hi👋,
-<p> I'm Justyn, a 2nd year information technology student at Curtin University. </p>
+I'm Justyn, a 2nd year information technology student at Curtin University.
 
 Here are some ideas to get you started:
 
