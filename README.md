@@ -6,4 +6,3 @@
 - 👯 Planning to take a masters/postgraduate course in Artificial Intelligence after completing my undergraduate/degree studies
 - 🤔 Looking to join an internship related to my field of study
 ...
--->
