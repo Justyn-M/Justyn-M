@@ -2,6 +2,7 @@
 ## I am...
 
 - 🔭 a 2nd year undergraduate Information Technology student at Curtin University
+
 - 🌱 expecting to finish my Information Technology degree by the end of 2024
 - 👯 planning to take a masters/postgraduate course in Artificial Intelligence after completing my undergraduate/degree studies.
 - 🤔 I’m looking for help with ...
