@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Justyn-M/Justyn-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi👋,
+<p> I'm Justyn, a 2nd year information technology student at Curtin University. </p>
 
 Here are some ideas to get you started:
 
