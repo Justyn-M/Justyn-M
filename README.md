@@ -1,5 +1,5 @@
-### Hi👋,
-I'm Justyn, a 2nd year information technology student at Curtin University.
+### Hi, I'm Justyn👋,
+a 2nd year information technology  undergraduate student at Curtin University. I am expecting to finish my information technology degree by the end of 2024 and planning to take a masters/postgraduate course in Artificial Intelligence after completing my undergraduate/degree studies.
 
 Here are some ideas to get you started:
 
