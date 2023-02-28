@@ -13,5 +13,8 @@
 - COMP2006 Operating Systems
 
 ### Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyn-M)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Profile Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
