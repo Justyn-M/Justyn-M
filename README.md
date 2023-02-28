@@ -15,4 +15,4 @@
 ### Programming Languages
 
 <!-- GitHub Stats --> 
-[![Anurag's GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=Justyn-M)](https://GitHub.com/anuraghazra/GitHub-readme-stats) 
+[![Justyn's GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=Justyn-M)](https://GitHub.com/anuraghazra/GitHub-readme-stats) 
