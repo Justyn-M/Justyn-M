@@ -7,9 +7,9 @@
 - 🤔 Looking to join an internship related to my field of study
 
 ### Units I am currently studying
--
--
--
--
+- CNCO2000 Computer Communications
+- CNCO3003 Mobile Cloud Computing
+- COMP2002 Unix Systems Programming
+- COMP2006 Operating Systems
 
 ### Programming Languages
