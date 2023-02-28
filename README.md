@@ -13,7 +13,7 @@
 - COMP2006 Operating Systems
 
 ### Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyn-M&layout=compact&hidejupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyn-M&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Profile Statistics
