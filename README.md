@@ -14,5 +14,4 @@
 
 ### Programming Languages
 
-<!-- GitHub Stats --> 
-[![Justyn's GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=Justyn-M&show_icons=true)](https://GitHub.com/anuraghazra/GitHub-readme-stats&theme=radical) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&theme=radical](https://github.com/anuraghazra/github-readme-stats)
