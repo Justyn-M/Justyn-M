@@ -6,7 +6,7 @@
 - 🤔 Planning to take a masters/postgraduate course in Artificial Intelligence after completing my undergraduate/degree studies
 - 👀 Looking to join an internship related to my field of study
 
-### Units I am currently studying during the currunt semester
+### Units I am studying during the currunt semester
 - CNCO2000 Computer Communications
 - CNCO3003 Mobile Cloud Computing
 - COMP2002 Unix Systems Programming
