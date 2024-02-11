@@ -1,7 +1,7 @@
 ### Hi, I'm Justyn👋🧑🏾‍💻,
 ## I am...
 
-- 📖 A 2nd year undergraduate Information Technology student at Curtin University
+- 📖 A 3rd year undergraduate Information Technology student at Curtin University
 - 🎓 Expecting to finish my Information Technology degree by the end of 2024
 - 🤔 Interested in Artificial Intelligence
 - 👀 Looking to join an internship related to my field of study
