@@ -2,9 +2,9 @@
 ## I am...
 
 - 📖 A 3rd year undergraduate Information Technology student at Curtin University
-- 🎓 Expecting to finish my Information Technology degree by the end of 2024
+- 🎓 Expecting to finish my Information Technology degree by June 2025
 - 🤔 Interested in Artificial Intelligence
-- 👀 Looking to join an internship related to my field of study
+- 👀 Looking for work related to my field of study
 
 ### Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyn-M&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
