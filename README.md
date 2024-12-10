@@ -22,3 +22,8 @@
 
 ### 🔥 Coding Activity
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Justyn-M)
+
+### 🚀 Featured Projects
+- [🌍 Recipe Web App](https://github.com/Justyn-M/recipe-organiser)  
+  React-based app with Firebase integration.
+
