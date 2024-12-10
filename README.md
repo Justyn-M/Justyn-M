@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&show_icons=true&theme=tokyonight)
 
-### 🔥 Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Justyn-M)
+### 🔥Coding Activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyn-M&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Featured Projects
 
