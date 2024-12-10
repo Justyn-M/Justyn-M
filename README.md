@@ -24,6 +24,18 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Justyn-M)
 
 ### 🚀 Featured Projects
+
+- [📱Flutter Language Memoriser App](https://github.com/Justyn-M/language_memoriser)  
+  A free to use project that includes a very in depth tutorial for the creation of a Flutter based app that connects to a Python Backend via Flask and is hosted using an AWS EC2 instance.
+  
 - [🌍 Recipe Web App](https://github.com/Justyn-M/recipe-organiser)  
-  React-based app with Firebase integration.
+  React-based app with Firebase integration for personal use of storing my cooking recipes. Includes a short tutorial on how to host it on Firebase.
+
+### Contribution Graph
+- Display a dynamic contributions graph.
+  - Use [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
+
+```markdown
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Justyn-M&theme=dracula)
 
