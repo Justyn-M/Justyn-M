@@ -8,7 +8,10 @@
 
 ### 🛠️ Technologies & Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-green?logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-green?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-purple?logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/-C-grey?logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
-![Rive](https://img.shields.io/badge/-Rive-red?logo=rive&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-red?logo=firebase&logoColor=white)
+![Rive](https://img.shields.io/badge/-Rive-black?logo=rive&logoColor=white)
