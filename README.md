@@ -31,11 +31,4 @@
 - [🌍 Recipe Web App](https://github.com/Justyn-M/recipe-organiser)  
   React-based app with Firebase integration for personal use of storing my cooking recipes. Includes a short tutorial on how to host it on Firebase.
 
-### Contribution Graph
-- Display a dynamic contributions graph.
-  - Use [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
-
-```markdown
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Justyn-M&theme=dracula)
 
