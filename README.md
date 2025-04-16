@@ -18,7 +18,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-red?logo=firebase&logoColor=white)
 ![Rive](https://img.shields.io/badge/-Rive-black?logo=rive&logoColor=white)
 
-### 📊 GitHub Stats (Public Repositories Only)
+### 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&show_icons=true&theme=tokyonight)
 
 ### 🚀 Featured Projects
