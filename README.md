@@ -1,7 +1,7 @@
 ### Hi, I'm Justyn👋🧑🏾‍💻,
 ## I am...
 
-- 📖 A 3rd year undergraduate Information Technology student at Curtin University
+- 📖 An Information Technology student at Curtin University
 - 🎓 Expecting to finish my Information Technology degree by June 2025 (finishing 1 last unit)
 - 💼 Currently undertaking a work placement as a Full Stack developer in Curtin's Bentley Campus.
 - 🤔 Interested in Artificial Intelligence
@@ -18,7 +18,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-red?logo=firebase&logoColor=white)
 ![Rive](https://img.shields.io/badge/-Rive-black?logo=rive&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Public Repositories Only)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&show_icons=true&theme=tokyonight)
 
 ### 🚀 Featured Projects
