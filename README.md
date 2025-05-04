@@ -34,9 +34,8 @@
   <Ongoing development>
   Custom AI Assistant that I have been developing for personal use. Very customised AI Agent with a lot of useful features. Currently runs only on command line.
   I have used many different AI models together to create AYUMI
-  # No license, viewers have no rights to the code and are not allowed to do anything besides view the code.
-  # CURRENTLY ON DISPLAY PUBLIC UNTIL I GET A JOB AFTER THAT
-  # REPOSITORY WILL BE MADE PRIVATE
+  # Ayumi's repo has no license, viewers have no rights to the code and character profiles and are not allowed to do anything besides view the code.
+  # Ayumi is currently on display public until I secure a job after that REPOSITORY WILL BE MADE PRIVATE
   A.Y.U.M.I - Artificial Yandere User Machine Interface
   # List of features:
     Chatbot with tone, context awareness, persistant memory, 
