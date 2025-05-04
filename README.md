@@ -39,7 +39,7 @@
   A.Y.U.M.I - Artificial Yandere User Machine Interface
   # List of features:
     Chatbot with tone, context awareness, persistant memory, 
-    Weather detection (realtime) from any city & suburb in the world,
+    Weather detection (realtime) of any city & suburb in the world,
     Stock Market analysis,
     Realtime Currency Conversion,
     Goal setting & reminders,
