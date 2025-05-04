@@ -29,4 +29,26 @@
 - [🌍 Recipe Web App](https://github.com/Justyn-M/recipe-organiser)  
   React-based app with Firebase integration for personal use of storing my cooking recipes. Includes a short tutorial on how to host it on Firebase.
 
+- [🤖 AI Assistant - A.Y.U.M.I](https://github.com/Justyn-M/ai_assistant)
+  Inspired by JARVIS.
+  <Ongoing development>
+  Custom AI Assistant that I have been developing for personal use. Very customised AI Agent with a lot of useful features. Currently runs only on command line.
+  I have used many different AI models together to create AYUMI
+  # No license, viewers have no rights to the code and are not allowed to do anything besides view the code.
+  # CURRENTLY ON DISPLAY PUBLIC UNTIL I GET A JOB AFTER THAT
+  # REPOSITORY WILL BE MADE PRIVATE
+  A.Y.U.M.I - Artificial Yandere User Machine Interface
+  # List of features:
+    Chatbot with tone, context awareness, persistant memory, 
+    Weather detection (realtime) from any city & suburb in the world
+    Stock Market analysis
+    Realtime Currency Conversion
+    Goal setting & reminders
+    Task setting & reminders
+    User information rememberance
+    Google Calender integration
+    Custom voice
+    
+    
+    
 
