@@ -25,9 +25,9 @@
 - [📚 EduResource](https://bitbucket.org/curtincomputingprojects/2024-22-eduresource/src/main/)
   EduResource System that I developed in a small team for Curtin University's Bently campus during my work placement/capstone unit.
   System has 3 parts:
-  Admin Web App: https://lending-library-admin-web-fe-capdk.ondigitalocean.app/
-  Student Web App: https://lending-library-student-web-fe-mtn74.ondigitalocean.app/
-  Native App: https://bitbucket.org/curtincomputingprojects/2024-22-eduresource/src/main/native__app/eduresource_native/
+  - Admin Web App: https://lending-library-admin-web-fe-capdk.ondigitalocean.app/
+  - Student Web App: https://lending-library-student-web-fe-mtn74.ondigitalocean.app/
+  - Native App: https://bitbucket.org/curtincomputingprojects/2024-22-eduresource/src/main/native__app/eduresource_native/
 
 - [📱Flutter Language Memoriser App](https://github.com/Justyn-M/language_memoriser)  
   A free to use project that includes a very in depth tutorial for the creation of a Flutter based app that connects to a Python Backend via Flask and is hosted using an AWS EC2 instance.
