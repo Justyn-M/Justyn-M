@@ -1,11 +1,10 @@
 ### Hi, I'm Justyn👋🧑🏾‍💻,
 ## I am...
 
-- 📖 An Information Technology student at Curtin University
-- 🎓 Expecting to finish my Information Technology degree by June 2025 (finishing 1 last unit)
-- 💼 Currently undertaking a work placement as a Full Stack developer in Curtin's Bentley Campus.
+- 🎓 An Information Technology graduate from Curtin University.
+- 💼 A fullstack developer.
 - 🤔 Interested in Artificial Intelligence
-- 👀 Looking for work related to my field of study
+- 👀 Looking for work
 
 ### 🛠️ Languages & Tools
 
@@ -22,6 +21,13 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyn-M&show_icons=true&theme=tokyonight)
 
 ### 🚀 Featured Projects
+
+- [📚 EduResource](https://bitbucket.org/curtincomputingprojects/2024-22-eduresource/src/main/)
+  EduResource System that I developed in a small team for Curtin University's Bently campus during my work placement/capstone unit.
+  System has 3 parts:
+  Admin Web App: https://lending-library-admin-web-fe-capdk.ondigitalocean.app/
+  Student Web App: https://lending-library-student-web-fe-mtn74.ondigitalocean.app/
+  Native App: https://bitbucket.org/curtincomputingprojects/2024-22-eduresource/src/main/native__app/eduresource_native/
 
 - [📱Flutter Language Memoriser App](https://github.com/Justyn-M/language_memoriser)  
   A free to use project that includes a very in depth tutorial for the creation of a Flutter based app that connects to a Python Backend via Flask and is hosted using an AWS EC2 instance.
